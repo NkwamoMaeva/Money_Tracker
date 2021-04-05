@@ -29,6 +29,12 @@
         color: #000000;
         font-weight: 700;
       }
+      p.expense{
+        color: red;
+      }
+      p.income{
+        color: green;
+      }
     }
     ion-item-sliding:last-child{
       margin-bottom: 50px;
